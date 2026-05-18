@@ -24,4 +24,4 @@ spring:
       enabled: true
 
 server:
-  port: 33400
+  port: 33400    
