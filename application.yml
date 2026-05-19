@@ -20,7 +20,7 @@ spring:
     show-sql: true
 
   h2:
-    console:
+    console:    
       enabled: true
 
 server:
